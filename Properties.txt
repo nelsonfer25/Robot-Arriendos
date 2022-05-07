@@ -1,0 +1,6 @@
+*** Variables ***
+${pagina}  https://fincaraiz.elpais.com.co/
+${navegador}  Chrome
+${valorini}  800000
+${valorfin}  1000000
+${rutaimages}   /Users/nelsonpinzon/robot/img/
