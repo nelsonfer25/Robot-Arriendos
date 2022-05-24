@@ -1,6 +1,6 @@
 *** Variables ***
 ${pagina}  https://fincaraiz.elpais.com.co/
 ${navegador}  Chrome
-${valorini}  800000
+${valorini}  900000
 ${valorfin}  1100000
 ${rutaimages}   /Users/nelsonpinzon/Robotframework/Robot-Arriendos/img/
