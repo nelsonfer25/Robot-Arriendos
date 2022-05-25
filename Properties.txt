@@ -3,4 +3,4 @@ ${pagina}  https://fincaraiz.elpais.com.co/
 ${navegador}  Chrome
 ${valorini}  900000
 ${valorfin}  1100000
-${rutaimages}   /Users/nelsonpinzon/Robotframework/Robot-Arriendos/img/
+${rutaimages}   /Users/nelsonpinzon/Robotframework/Robot-Arriendos/img
